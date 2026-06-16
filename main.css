@@ -12,7 +12,7 @@ body {
 
 /* Заголово403к */
 h1 {
-    color: #0000FF !important; /* !important заставит браузер игнорировать любые другие цвета */
+    color: #4A7C59 !important; /* !important заставит браузер игнорировать любые другие цвета */
     font-size: 3rem;
     font-weight: normal;
     margin-bottom: 20px;
