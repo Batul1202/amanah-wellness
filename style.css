@@ -1,10 +1,25 @@
+/* Общий вид страницы */
 body {
-    background-color: #F9F7F2;
+    background-color: #F9F7F2; /* Цвет слоновой кости */
     color: #333333;
-    font-family: 'Segoe UI', sans-serif;
-    line-height: 1.6;
-    max-width: 800px;
-    margin: 50px auto;
+    font-family: 'Georgia', serif; /* Благородный шрифт с засечками */
+    line-height: 1.8;
+    max-width: 700px;
+    margin: 80px auto;
     padding: 20px;
+    text-align: center;
 }
-h1 { color: #2D4037; }
+
+/* Заголовок */
+h1 {
+    color: #2D4037; /* Глубокий шалфей */
+    font-size: 3rem;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+/* Текст */
+p {
+    font-size: 1.2rem;
+    color: #555555;
+}
